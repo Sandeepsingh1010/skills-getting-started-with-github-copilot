@@ -120,6 +120,8 @@ section h3 {
   justify-content: center;
   width: 30px;
   height: 30px;
+  padding: 0;
+  line-height: 1;
   border: none;
   border-radius: 50%;
   background: #fdecea;
